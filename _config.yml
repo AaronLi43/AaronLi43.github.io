@@ -10,13 +10,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "周律邦 / Academics Page"
+title                    : "Ziwen Aaron Li / Academics Page"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://zhoulvbang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ziwen Li"
+description              : &description "A MS student at UCLA ECE"
+url                      : https://github.com/AaronLi43/AaronLi43.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhoulvbang/zhoulvbang.github.io"
+repository               : "AaronLi43/AaronLi43.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
